@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App npm install -g firebase-tools
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
