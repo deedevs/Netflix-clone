@@ -1,11 +1,10 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import logo from "./netflix.png";
 import avatar from "./avartar.png";
 import "./Nav.css";
 
 function Nav() {
-
-    const [show, handleShow] = useState(false)
+  const [show, handleShow] = useState(false);
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
